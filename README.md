@@ -7,7 +7,7 @@ This repository provides the structured notes, essential cheat sheets, and secur
 **🧭 I. The AI Services Map (System Thinking)**
 The AI-900 is about knowing the right tool for the job. Our Masterclass defined the five pillars of Azure AI.
 
-ai900 diagram.png
+![5 Pillars of Azure AI] ai900 diagram.png
 
 Key Service Distinctions (The Expert View)
 Azure Machine Learning:
