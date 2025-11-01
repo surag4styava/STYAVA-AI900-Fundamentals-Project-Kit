@@ -1,14 +1,13 @@
-STYAVA-AI900-Fundamentals-Project-Kit
-The AI-900 Deconstructed: Core Concepts, Battle Plan, and Code Challenges
+**STYAVA-AI900-Fundamentals-Project-Kit**
+
+**The AI-900 Deconstructed: Core Concepts, Battle Plan, and Code Challenges**
 
 This repository provides the structured notes, essential cheat sheets, and security blueprint from the STYAVA 2-Day Azure AI Fundamentals Masterclass. We are turning conceptual knowledge into deployable skills.
 
-🧭 I. The AI Services Map (System Thinking)
+**🧭 I. The AI Services Map (System Thinking)**
 The AI-900 is about knowing the right tool for the job. Our Masterclass defined the five pillars of Azure AI.
 
-Insert the link to your visual diagram here (after you create the image).
-
-**
+https://netorg7592816-my.sharepoint.com/:i:/g/personal/surag_styava_com/EdwBxhE73WpArYjbuFc8LgIBOnfte4F1F18Vk4dRQuiJ_A?e=xr2T4X
 
 Key Service Distinctions (The Expert View)
 Azure Machine Learning:
